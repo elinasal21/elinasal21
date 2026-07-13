@@ -8,6 +8,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=elinasal21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=elinasal21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=elinasal21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elinasal21&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
