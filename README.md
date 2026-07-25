@@ -8,9 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elinasal21&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elinasal21&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elinasal21&theme=radical&utcOffset=8)
-## 🧩 LeetCode
 
-[![LeetCode](https://img.shields.io/badge/Solved-1-ff4d94?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/elinasal22/)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
