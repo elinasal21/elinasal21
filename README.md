@@ -8,7 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elinasal21&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elinasal21&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elinasal21&theme=radical&utcOffset=8)
-[![LeetCode](https://img.shields.io/badge/LeetCode-elinasal21-1F1D2B?style=for-the-badge&logo=leetcode&logoColor=FF69B4)](https://leetcode.com/u/elinasal21/)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/elinasal21?theme=dark&ext=heatmap)](https://leetcode.com/u/elinasal21/)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
